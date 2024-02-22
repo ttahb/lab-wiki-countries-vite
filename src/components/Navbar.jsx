@@ -5,7 +5,7 @@ function Navbar() {
         <nav className="navbar navbar-dark bg-primary mb-3">
             <div className="container">
             <ul>
-                <Link className="navbar-brand">WikiCountries</Link>
+                <Link className="navbar-brand" to={"/"}>WikiCountries</Link>
             </ul>
             </div>
         </nav>
